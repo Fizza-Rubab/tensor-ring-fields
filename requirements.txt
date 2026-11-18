@@ -1,0 +1,7 @@
+torch==2.0.1
+numpy==1.26.4
+scipy==1.11.1
+scikit-image==0.20.0
+trimesh==4.12.2
+libigl==2.5.0
+matplotlib==3.9.1
